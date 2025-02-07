@@ -51,5 +51,5 @@ Python öğrenme sürecimde katkıda bulunmak isteyen herkesin öneri ve düzelt
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır.
+Bu proje Apache License Version 2.0, January 2004 lisanslanmıştır.
 
